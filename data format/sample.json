@@ -1,0 +1,25 @@
+{"People":
+    [
+        {
+            "Id": 1,
+            "FirstName": "Benjamin",
+            "LastName": "Finkel",
+            "Email": "den.finkel@cbtnugegt.com",
+            "Active": true
+        },
+        {
+            "Id": 1,
+            "FirstName": "Benjamin",
+            "LastName": "Finkel",
+            "Email": "den.finkel@cbtnugegt.com",
+            "Active": true
+        },
+        {
+            "Id": 1,
+            "FirstName": "Benjamin",
+            "LastName": "Finkel",
+            "Email": "den.finkel@cbtnugegt.com",
+            "Active": true
+        }
+    ]
+}
